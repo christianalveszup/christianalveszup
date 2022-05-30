@@ -7,6 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've got two cats and live in Brazil's highest city
 
-<img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' /><img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' />
-
-<img src='badges/cloudsec_zupit.png' alt='badges/cloudsec_zupit.png' width='160px' />
+<img src='badges/ssdlc.png' alt='badges/ssdlc.png' width='160px' /><img src='badges/regulatorios.png' alt='badges/regulatorios.png' width='160px' /><img src='badges/cloudsec_zupit.png' alt='badges/cloudsec_zupit.png' width='160px' />
